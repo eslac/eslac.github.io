@@ -13,7 +13,15 @@ If you need help with one of the courses, then I will take the course with you
 
 ## Sololearn
 
+I just learned about this one today ( 2018-10-07):
+
 * https://www.sololearn.com/
+* 26,306,945 Learners 1574 Lessons  12,102 Quizzes
+* Available Anytime & Anywhere for FREE!
+* Learn on the web and on the go. 
+* Available on all major devices and platforms. 
+* Always pick up where you left off. 
+* More simple and enjoyable than ever!
 
 ## Part Time / Online Gigs
 
