@@ -2,6 +2,11 @@
 ESL Adolescentes Change
 
 
+## El Salvador / NodeSchool San Miguel
+
+* https://nodeschool.io/sanmiguel/
+* https://github.com/nodeschool/sanmiguel
+
 ## Free Code Camp
 
 * https://www.freecodecamp.org/
@@ -18,10 +23,20 @@ I just learned about this one today ( 2018-10-07):
 * https://www.sololearn.com/
 * 26,306,945 Learners 1574 Lessons  12,102 Quizzes
 * Available Anytime & Anywhere for FREE!
-* Learn on the web and on the go. 
-* Available on all major devices and platforms. 
-* Always pick up where you left off. 
+* Learn on the web and on the go.
+* Available on all major devices and platforms.
+* Always pick up where you left off.
 * More simple and enjoyable than ever!
+
+## ww3schools
+
+https://www.w3schools.com/
+* All their courses have quizzes
+
+## Khan Academy
+
+* https://www.khanacademy.org/
+
 
 ## Part Time / Online Gigs
 
