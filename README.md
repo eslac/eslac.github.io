@@ -1,49 +1,46 @@
-# eslac.github.io
-ESL Adolescentes Change
+<span style=display:none; >[You are now in a GitHub source code view - click this link to view Read Me file as a web page]( https://eslac.github.io/readme.html  "View file as a web page." ) </span>
+
+<div><input type=button onclick=window.top.location.href="https://github.com/eslac/eslac.github.io/";
+value='You are now in a GitHub web page view - Click this button to view this read me file as source code' ></div>
 
 
-## El Salvador / NodeSchool San Miguel
+# [ESL Adolescentes Change Read Me]( https://eslac.github.io/readme.html )
 
-* https://nodeschool.io/sanmiguel/
-* https://github.com/nodeschool/sanmiguel
+<!--@@@
+<div class=iframe-resize ><iframe src=https://eslac.github.io/ height=100% width=100% ></iframe></div>
+_ESL Adolescentes Change in a resizable window. One finger to rotate. Two to zoom._
+@@@-->
 
-## Free Code Camp
-
-* https://www.freecodecamp.org/
-* curriculum: https://learn.freecodecamp.org/
-* YouTube: https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
-* Forum: https://forum.freecodecamp.org/top
-
-If you need help with one of the courses, then I will take the course with you
-
-## Sololearn
-
-I just learned about this one today ( 2018-10-07):
-
-* https://www.sololearn.com/
-* 26,306,945 Learners 1574 Lessons  12,102 Quizzes
-* Available Anytime & Anywhere for FREE!
-* Learn on the web and on the go.
-* Available on all major devices and platforms.
-* Always pick up where you left off.
-* More simple and enjoyable than ever!
-
-## ww3schools
-
-https://www.w3schools.com/
-* All their courses have quizzes
-
-## Khan Academy
-
-* https://www.khanacademy.org/
+## Full Screen: [ESL Adolescentes Change]( https://eslac.github.io/ )
 
 
-## Part Time / Online Gigs
+## Concept
 
-I said I would research this. A start:
 
-* https://www.upwork.com/
-* https://www.freelancer.com
-* https://medium.freecodecamp.org/tips-for-making-money-as-a-freelance-developer-39fae6b76972
-* https://99designs.com/designers
-* https://lifehacker.com/this-graphic-lists-over-200-resources-for-making-money-1609553725 << nice graphic
+## To Do / Wish List
+
+
+## Issues
+
+
+## Links of Interest
+
+
+## Change Log
+
+
+### 2021-03-10
+
+* First commit this revised read me
+* Home page add Spanish and English versions
+* Fix styles a bit
+* Add home page versionsversions
+* Add faq versions
+* Add Squash Para Todos question to FAQ
+
+***
+
+<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>
+
+
+
