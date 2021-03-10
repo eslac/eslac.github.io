@@ -34,7 +34,8 @@ _ESL Adolescentes Change in a resizable window. One finger to rotate. Two to zoo
 * First commit this revised read me
 * Home page add Spanish and English versions
 * Fix styles a bit
-* Add home page versionsversions
+* Add home page versions
+* Add home page push state
 * Add faq versions
 * Add Squash Para Todos question to FAQ
 

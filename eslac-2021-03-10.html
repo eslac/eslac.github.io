@@ -118,5 +118,18 @@
 
 
 </body>
+<script>
+
+	init()
+
+	function init() {
+
+		if ( location.protocol === "https:" ) {
+
+			window.history.pushState( "", "", "../" + location.hash );
+
+		}
+	}
+</script>
 
 </html>
