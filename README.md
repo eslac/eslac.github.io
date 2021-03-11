@@ -19,6 +19,9 @@ _ESL Adolescentes Change in a resizable window. One finger to rotate. Two to zoo
 
 ## To Do / Wish List
 
+* Add mission statement with sustainable goals to home page
+* Break out FAQ into different sections
+
 
 ## Issues
 
