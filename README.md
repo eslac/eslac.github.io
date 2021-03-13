@@ -20,7 +20,9 @@ _ESL Adolescentes Change in a resizable window. One finger to rotate. Two to zoo
 ## To Do / Wish List
 
 * Add mission statement with sustainable goals to home page
-* Break out FAQ into different sections
+* Add images to answers
+* Break out FAQ into different sections ~ left menu
+* Craigslist ELS
 
 
 ## Issues
@@ -45,6 +47,3 @@ _ESL Adolescentes Change in a resizable window. One finger to rotate. Two to zoo
 ***
 
 <center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>
-
-
-
