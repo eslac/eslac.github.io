@@ -16,6 +16,23 @@ _ESL Adolescentes Change in a resizable window. One finger to rotate. Two to zoo
 
 ## Concept
 
+## 2021-03-15
+
+Here is an idea
+
+We all create our own repositories.
+
+We copy each others ideas, text and images and turn them into our own vision
+
+We are graffiti artists pointing the way toward a good, kind life of adventure
+
+We have different styles. We say things in different ways. We have different objectives.
+
+And
+
+We all collaborate. We help and coach each other. We have fun
+
+
 
 ## To Do / Wish List
 
