@@ -32,7 +32,7 @@ We need a way for remixing content to make it get better and better
 
 We need both to follow and to lead fashions
 
-We learn from the rraffiti artists. We imitate each other. We push each other
+We learn from the graffiti artists. We imitate each other. We push each other
 
 Every week we add and build new repositories.
 
