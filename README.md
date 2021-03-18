@@ -16,25 +16,33 @@ _ESL Adolescentes Change in a resizable window. One finger to rotate. Two to zoo
 
 ## 2021-03-17
 
-The pject is at a very early stage
+The project is at a very early stage
 
-We must brainstorm user experience
+We must brainstorm to create new user experiences
 
-We must brainstorm content
+We must brainstorm to create lively new content
 
 Our audience is young, troubled, impatient
 
 Our audience are like gamers. They want action, control and responsiveness,
 
-We need to create a system that creates nnew experiences
+We need to create a system that creates new feelings
 
 We need a way for remixing content to make it get better and better
 
 We need both to follow and to lead fashions
 
-We learn from the Graffiti artists. We imitate each other. We push each other
+We learn from the rraffiti artists. We imitate each other. We push each other
 
-Every week we add and build new repositories. Each repo
+Every week we add and build new repositories.
+
+Each repo is a new work of art - a coding graffiti
+
+Every repo belongs to an artist/coder or a collaboration of artists and coders
+
+All work is oen source and may be copied and remixed by other artists
+
+
 
 
 ## 2021-03-15
