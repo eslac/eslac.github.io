@@ -14,7 +14,28 @@ _ESL Adolescentes Change in a resizable window. One finger to rotate. Two to zoo
 ## Full Screen: [ESL Adolescentes Change]( https://eslac.github.io/ )
 
 
-## Concept
+## 2021-03-17
+
+The pject is at a very early stage
+
+We must brainstorm user experience
+
+We must brainstorm content
+
+Our audience is young, troubled, impatient
+
+Our audience are like gamers. They want action, control and responsiveness,
+
+We need to create a system that creates nnew experiences
+
+We need a way for remixing content to make it get better and better
+
+We need both to follow and to lead fashions
+
+We learn from the Graffiti artists. We imitate each other. We push each other
+
+Every week we add and build new repositories. Each repo
+
 
 ## 2021-03-15
 
